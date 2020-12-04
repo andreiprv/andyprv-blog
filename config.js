@@ -30,10 +30,10 @@ module.exports = {
     bio: "Never stop learning",
     contacts: {
       email: "ionescu.a@gmail.com",
-      // facebook: "#",
+      facebook: "#",
       telegram: "#",
       twitter: "#",
-      // github: "#",
+      github: "#",
       rss: "",
       vkontakte: "",
       linkedin: "#",
