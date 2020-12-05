@@ -4,7 +4,7 @@ module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
   title: "andyprv | Home",
-  subtitle: "Micro articles on web development",
+  subtitle: "Micro articles and tutorials on web development",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: "andyprv",
     photo: "/photo.jpg",
-    bio: "Never stop learning",
+    bio: "Micro articles and tutorials on web development",
     contacts: {
       email: "ionescu.a@gmail.com",
       facebook: "#",
