@@ -27,7 +27,8 @@ module.exports = {
   author: {
     name: 'andyprv',
     photo: '/photo.jpg',
-    bio: 'Micro articles and tutorials on web development',
+    bio:
+      'Web development made easy. I write articles and tutorials for people that are starting their journey into programming ',
     contacts: {
       email: 'ionescu.a@gmail.com',
       facebook: '#',
