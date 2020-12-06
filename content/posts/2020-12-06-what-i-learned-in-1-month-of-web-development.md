@@ -8,7 +8,10 @@ date: 2020-03-01T10:02:34.706Z
 description: Preparing for learning web development
 category: Articles
 tags:
-  - begginer;development;webdev
+  - begginer
+  - webdev
+  - learning
+  - tutorial
 ---
 # **TL;DR**
 
