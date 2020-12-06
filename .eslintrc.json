@@ -24,7 +24,6 @@
         "devDependencies": true
       }
     ],
-    "requireForBlockBody": false,
     "no-debugger": 0,
     "dot-notation": 0,
     "no-console": 0,
