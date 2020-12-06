@@ -35,7 +35,7 @@ jobs:
       - restore_cache:
           keys:
             - dependencies-{{ checksum "yarn.lock" }}
-      - run: yarn test --runInBand --no-cache
+      - run: yarn test --runInBand --no-cache --fix
 
   coverage:
     <<: *defaults
@@ -62,7 +62,7 @@ jobs:
             - coverage-output-{{ .Environment.CIRCLE_SHA1 }}
       - run: yarn global add codecov
       - run: yarn codecov
-    
+
 workflows:
   version: 2
   test:
