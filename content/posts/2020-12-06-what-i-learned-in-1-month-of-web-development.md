@@ -5,7 +5,10 @@ slug: what-I-learned-in-one-month-of-web-development
 socialImage: /media/nick-morrison-fhnnjk1yj7y-unsplash-1-.jpg
 draft: false
 date: 2020-03-01T10:02:34.706Z
-description: Preparing for learning web development
+description: The steps I took and mentally and physically before diving deep
+  into web development. I am a strong believer that you should plan ahead for
+  almost everything in life in order to have a chance to succeed and stick to
+  it.
 category: Articles
 tags:
   - begginer
